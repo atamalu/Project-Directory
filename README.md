@@ -33,4 +33,14 @@ These Python functions are essentially shortcuts in connecting to and controllin
 
 ## [Scraping Fangraphs](https://github.com/atamalu/Scraping-Fangraphs)
 
-I love fantasy baseball and FanGraphs is an incredible source of MLB data, so I wrote a small 3-part tutorial series. The first part teaches writing a relatively simple function that acts as a shortcut to searching on FanGraphs. The second part shows how to gather this data and turn it into a useable format in another function. Last, I give examples of some visualizations of the data and what they mean. 
+I love fantasy baseball and FanGraphs is an incredible source of MLB data, so I wrote a small 3-part tutorial series. The first part teaches writing a relatively simple function that acts as a shortcut to searching on FanGraphs. The second part shows how to gather this data and turn it into a useable format in another function. Last, I give examples of some visualizations of the data and what they mean.
+
+## [Introduction to NFL Data](https://github.com/atamalu/Intro-to-NFL-Data)
+
+Fantasy football has also been growing on me. This series aims as a way to get R users started in NFL data acquisition, manipulation, and exploration. SQL is also used.
+
+# Misc.
+
+## [CV Extra](https://github.com/atamalu/CV-Extra)
+
+I wanted to compact some of the information that is relevant to my CV but not necessarily common inclusions. This is done by visualizations. 
