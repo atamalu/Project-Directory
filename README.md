@@ -12,6 +12,7 @@ This project contains elaborate examples of common statistical models using simu
 * [t-test (AB test)](https://github.com/atamalu/Applied-Stats-Sims/blob/master/t_test/t_test.md)
 * [One-way ANOVA](https://github.com/atamalu/Applied-Stats-Sims/blob/master/one_way_anova/one_way_anova.md)
 * [Multilevel model: factorial design](https://github.com/atamalu/Applied-Stats-Sims/blob/master/Multilevel_Factorial/Multilevel_Factorial.md)
+* [Logistic regression](https://github.com/atamalu/Applied-Stats-Sims/blob/master/Logistic_Regression/Logistic_Regression.md)
 
 # Functions
 
