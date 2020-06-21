@@ -44,7 +44,7 @@ Fantasy football has also been growing on me. This series aims as a way to get R
 
 ## [COVID-19 Loans](https://github.com/atamalu/covid_loans)
 
-I found some data on COVID-19 grants & loans that were gathered through SEC filings, so decided to explore and visualize this data to answer some questions I've been having. Some of the results so far are surprising - especially how much money 5 airlines were given in grants relative to everyone else.
+I found some data on COVID-19 grants & loans that were gathered through SEC filings, so I decided to explore and visualize this data to answer some questions I've been having. Some of the results so far are surprising - especially how much money 5 airlines were given in grants relative to over 10,000 other companies.
 
 ## [CV Extra](https://github.com/atamalu/CV-Extra)
 
