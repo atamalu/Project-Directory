@@ -16,11 +16,11 @@ This project contains elaborate examples of common statistical models using simu
 
 # Functions
 
-## GCalcium Package
-[cran version](https://github.com/atamalu/GCalcium)
-[github version](https://github.com/atamalu/GCalcium)
+## fluoR Package
+~~[cran version](https://github.com/atamalu/GCalcium)~~ (no longer supported)
+[github version](https://github.com/atamalu/fluoR)
 
-The functions in this R packages aim to expedite the data manipulation, exploration, and transformation processes that are useful in working with waveform data. I initially wrote this for a pilot study at University of Colorado when we were testing out GCaMP6 calcium fluorescence imaging, and have been using it ever since. The vignette for the cran version explains the functions in more detail.
+The functions in this R packages aim to expedite the data manipulation, exploration, and transformation processes that are useful in working with waveform data. I initially wrote the GCalcium package for a pilot study at University of Colorado when we were testing out GCaMP6 calcium fluorescence imaging, and have since re-written some of the functions for better speed and interpretability. The vignette for the cran version explains the functions in more detail.
 
 ## [StockGather](https://github.com/atamalu/StockGather)
 
