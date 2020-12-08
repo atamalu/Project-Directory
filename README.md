@@ -14,6 +14,15 @@ This project contains elaborate examples of common statistical models using simu
 * [Multilevel model: factorial design](https://github.com/atamalu/Applied-Stats-Sims/blob/master/Multilevel_Factorial/Multilevel_Factorial.md)
 * [Logistic regression](https://github.com/atamalu/Applied-Stats-Sims/blob/master/Logistic_Regression/Logistic_Regression.md)
 
+# Books
+
+## [Analyzing and visualizing fiber photometry data with fluoR](https://bookdown.org/anta8363/fluoR_bookdown/)
+
+This free online book is a continuously updated source of tutorials and background information for analyzing and visualizing fiber photometry time series data from behavioral experiments.
+
+* The book focuses on how my fluoR package can be used to help with the process
+* The book was written exclusively in R using bookdown, markdown, LaTeX, html, and more. 
+
 # Functions
 
 ## fluoR Package
